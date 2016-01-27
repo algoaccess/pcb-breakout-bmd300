@@ -182,7 +182,7 @@
 <text x="16.06" y="23.3" size="0.8128" layer="21" rot="R270">P0.22 :40</text>
 <text x="13.52" y="23.3" size="0.6096" layer="21" rot="R270">P0.23 :41</text>
 <text x="10.98" y="23.3" size="0.6096" layer="21" rot="R270">P0.24 :42</text>
-<text x="8.44" y="23.3" size="0.8128" layer="21" rot="R270">SWDCLK</text>
+<text x="8.44" y="23.3" size="0.8128" layer="21" rot="R270">SWCLK</text>
 <text x="5.9" y="23.3" size="0.8128" layer="21" rot="R270">SWDIO</text>
 <text x="37.15" y="10.55" size="1.016" layer="21">Rigado BMD-300 breakout
 Rev 1 (Jan 2016)
