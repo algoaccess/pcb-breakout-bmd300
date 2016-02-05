@@ -9,6 +9,8 @@ Pin breakout of the Rigado BMD-300 module based on Nordic NRF51 to through-hole 
 
 ##Images
 
+![Screen](images/front.jpg)
+
 ##Schematic drawings
 Images are exported from Eagle at 600dpi.
 
