@@ -175,8 +175,8 @@
 <smd name="P27" x="7.1" y="0.55" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P28" x="7.65" y="1.45" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P29" x="8.2" y="0.55" dx="0.5" dy="0.5" layer="1"/>
-<smd name="P30" x="9.3" y="1.65" dx="0.5" dy="0.5" layer="1"/>
-<smd name="P31" x="9.3" y="0.55" dx="0.5" dy="0.5" layer="1"/>
+<smd name="P31" x="9.3" y="1.65" dx="0.5" dy="0.5" layer="1"/>
+<smd name="P30" x="9.3" y="0.55" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P32" x="8.4" y="2.2" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P33" x="9.3" y="2.75" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P34" x="8.4" y="3.3" dx="0.5" dy="0.5" layer="1"/>

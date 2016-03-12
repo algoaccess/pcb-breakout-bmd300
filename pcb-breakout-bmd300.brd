@@ -185,7 +185,7 @@
 <text x="8.44" y="23.3" size="0.8128" layer="21" rot="R270">SWCLK</text>
 <text x="5.9" y="23.3" size="0.8128" layer="21" rot="R270">SWDIO</text>
 <text x="37.15" y="10.55" size="1.016" layer="21">Rigado BMD-300 breakout
-Rev 1 (Jan 2016)
+Rev 2 (Mar 2016)
 Algo Access Pte Ltd
 Designer: Yeo Kheng Meng</text>
 </plain>
@@ -222,8 +222,8 @@ Designer: Yeo Kheng Meng</text>
 <smd name="P27" x="7.1" y="0.55" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P28" x="7.65" y="1.45" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P29" x="8.2" y="0.55" dx="0.5" dy="0.5" layer="1"/>
-<smd name="P30" x="9.3" y="1.65" dx="0.5" dy="0.5" layer="1"/>
-<smd name="P31" x="9.3" y="0.55" dx="0.5" dy="0.5" layer="1"/>
+<smd name="P31" x="9.3" y="1.65" dx="0.5" dy="0.5" layer="1"/>
+<smd name="P30" x="9.3" y="0.55" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P32" x="8.4" y="2.2" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P33" x="9.3" y="2.75" dx="0.5" dy="0.5" layer="1"/>
 <smd name="P34" x="8.4" y="3.3" dx="0.5" dy="0.5" layer="1"/>
@@ -889,16 +889,18 @@ design rules under a new name.</description>
 <signal name="N$22">
 <contactref element="U1" pad="P31"/>
 <contactref element="JP2" pad="14"/>
-<wire x1="13.35" y1="17.96" x2="34.85" y2="17.96" width="0.25" layer="1"/>
-<wire x1="34.85" y1="17.96" x2="39.35" y2="24.86" width="0.25" layer="1"/>
+<wire x1="12.25" y1="17.96" x2="12.26" y2="17.96" width="0.25" layer="1"/>
+<wire x1="12.26" y1="17.96" x2="13.1" y2="18.6" width="0.25" layer="1"/>
+<wire x1="13.1" y1="18.6" x2="33.09" y2="18.6" width="0.25" layer="1"/>
+<wire x1="33.09" y1="18.6" x2="39.35" y2="24.86" width="0.25" layer="1"/>
 </signal>
 <signal name="N$23">
 <contactref element="U1" pad="P32"/>
 <contactref element="JP2" pad="13"/>
 <wire x1="11.7" y1="17.06" x2="11.7" y2="18.5" width="0.25" layer="1"/>
-<wire x1="11.7" y1="18.5" x2="13" y2="19" width="0.25" layer="1"/>
-<wire x1="13" y1="19" x2="32" y2="19" width="0.25" layer="1"/>
-<wire x1="32" y1="19" x2="36.81" y2="24.86" width="0.25" layer="1"/>
+<wire x1="11.7" y1="18.5" x2="13" y2="19.05" width="0.25" layer="1"/>
+<wire x1="13" y1="19.05" x2="32" y2="19.05" width="0.25" layer="1"/>
+<wire x1="32" y1="19.05" x2="36.81" y2="24.86" width="0.25" layer="1"/>
 </signal>
 <signal name="N$24">
 <contactref element="U1" pad="P33"/>
