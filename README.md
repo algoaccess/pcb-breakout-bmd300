@@ -1,6 +1,6 @@
 # pcb-breakout-bmd300
 
-Pin breakout of the Rigado BMD-300 module based on Nordic NRF51 to through-hole pin headers for prototyping.
+Pin breakout of the Rigado BMD-300 module based on Nordic NRF52 to through-hole pin headers for prototyping.
 
 ##PCB Design software and addons used
 
